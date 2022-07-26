@@ -42,7 +42,10 @@ In the back end project directory, you can run:
 
 #### Step 4:
 
-In the front end project directory, open witn live server :
+In the front end project directory:
+
+- Install Metamask extension on your browser
+- open witn live server :
 
 ##### `index.html`
 
